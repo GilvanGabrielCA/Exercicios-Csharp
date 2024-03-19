@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\bin\Debug\net8.0\SomaImparesConsecutivos-II.exe
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\bin\Debug\net8.0\SomaImparesConsecutivos-II.deps.json
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\bin\Debug\net8.0\SomaImparesConsecutivos-II.runtimeconfig.json
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\bin\Debug\net8.0\SomaImparesConsecutivos-II.dll
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\bin\Debug\net8.0\SomaImparesConsecutivos-II.pdb
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\obj\Debug\net8.0\SomaImparesConsecutivos-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\obj\Debug\net8.0\SomaImparesConsecutivos-II.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\obj\Debug\net8.0\SomaImparesConsecutivos-II.AssemblyInfo.cs
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\obj\Debug\net8.0\SomaImparesConsecutivos-II.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\obj\Debug\net8.0\SomaImparesConsecutivos-II.sourcelink.json
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\obj\Debug\net8.0\SomaImparesConsecutivos-II.dll
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\obj\Debug\net8.0\refint\SomaImparesConsecutivos-II.dll
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\obj\Debug\net8.0\SomaImparesConsecutivos-II.pdb
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\obj\Debug\net8.0\SomaImparesConsecutivos-II.genruntimeconfig.cache
+C:\Users\galencar\projetos\SomaImparesConsecutivos-II\SomaImparesConsecutivos-II\obj\Debug\net8.0\ref\SomaImparesConsecutivos-II.dll
