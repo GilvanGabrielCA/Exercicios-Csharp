@@ -1,0 +1,14 @@
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\bin\Debug\net8.0\ValidaçãoNotas.exe
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\bin\Debug\net8.0\ValidaçãoNotas.deps.json
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\bin\Debug\net8.0\ValidaçãoNotas.runtimeconfig.json
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\bin\Debug\net8.0\ValidaçãoNotas.dll
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\bin\Debug\net8.0\ValidaçãoNotas.pdb
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\obj\Debug\net8.0\ValidaçãoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\obj\Debug\net8.0\ValidaçãoNotas.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\obj\Debug\net8.0\ValidaçãoNotas.AssemblyInfo.cs
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\obj\Debug\net8.0\ValidaçãoNotas.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\obj\Debug\net8.0\ValidaçãoNotas.dll
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\obj\Debug\net8.0\refint\ValidaçãoNotas.dll
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\obj\Debug\net8.0\ValidaçãoNotas.pdb
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\obj\Debug\net8.0\ValidaçãoNotas.genruntimeconfig.cache
+C:\Users\galencar\projetos\ValidaçãoNotas\ValidaçãoNotas\obj\Debug\net8.0\ref\ValidaçãoNotas.dll
