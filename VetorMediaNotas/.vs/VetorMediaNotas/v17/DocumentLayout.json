@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galencar\\projetos\\VetorMediaNotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73B4FBD3-1A45-4C17-80F5-52C8B2556C13}|VetorMediaNotas\\VetorMediaNotas.csproj|c:\\users\\galencar\\projetos\\vetormedianotas\\vetormedianotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B4FBD3-1A45-4C17-80F5-52C8B2556C13}|VetorMediaNotas\\VetorMediaNotas.csproj|solutionrelative:vetormedianotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galencar\\projetos\\VetorMediaNotas\\VetorMediaNotas\\Program.cs",
+              "RelativeDocumentMoniker": "VetorMediaNotas\\Program.cs",
+              "ToolTip": "C:\\Users\\galencar\\projetos\\VetorMediaNotas\\VetorMediaNotas\\Program.cs",
+              "RelativeToolTip": "VetorMediaNotas\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:21:15.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

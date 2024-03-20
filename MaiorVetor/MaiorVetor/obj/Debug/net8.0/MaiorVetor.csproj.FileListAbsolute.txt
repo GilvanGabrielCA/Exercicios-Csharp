@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\bin\Debug\net8.0\MaiorVetor.exe
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\bin\Debug\net8.0\MaiorVetor.deps.json
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\bin\Debug\net8.0\MaiorVetor.runtimeconfig.json
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\bin\Debug\net8.0\MaiorVetor.dll
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\bin\Debug\net8.0\MaiorVetor.pdb
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\obj\Debug\net8.0\MaiorVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\obj\Debug\net8.0\MaiorVetor.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\obj\Debug\net8.0\MaiorVetor.AssemblyInfo.cs
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\obj\Debug\net8.0\MaiorVetor.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\obj\Debug\net8.0\MaiorVetor.sourcelink.json
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\obj\Debug\net8.0\MaiorVetor.dll
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\obj\Debug\net8.0\refint\MaiorVetor.dll
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\obj\Debug\net8.0\MaiorVetor.pdb
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\obj\Debug\net8.0\MaiorVetor.genruntimeconfig.cache
+C:\Users\galencar\projetos\MaiorVetor\MaiorVetor\obj\Debug\net8.0\ref\MaiorVetor.dll

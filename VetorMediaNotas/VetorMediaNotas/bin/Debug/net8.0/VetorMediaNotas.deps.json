@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VetorMediaNotas/1.0.0": {
+        "runtime": {
+          "VetorMediaNotas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VetorMediaNotas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

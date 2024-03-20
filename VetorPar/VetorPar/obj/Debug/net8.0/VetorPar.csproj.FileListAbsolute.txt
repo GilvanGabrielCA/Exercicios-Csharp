@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\VetorPar\VetorPar\obj\Debug\net8.0\VetorPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\VetorPar\VetorPar\obj\Debug\net8.0\VetorPar.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\VetorPar\VetorPar\obj\Debug\net8.0\VetorPar.AssemblyInfo.cs
+C:\Users\galencar\projetos\VetorPar\VetorPar\obj\Debug\net8.0\VetorPar.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\VetorPar\VetorPar\obj\Debug\net8.0\VetorPar.sourcelink.json
+C:\Users\galencar\projetos\VetorPar\VetorPar\bin\Debug\net8.0\VetorPar.exe
+C:\Users\galencar\projetos\VetorPar\VetorPar\bin\Debug\net8.0\VetorPar.deps.json
+C:\Users\galencar\projetos\VetorPar\VetorPar\bin\Debug\net8.0\VetorPar.runtimeconfig.json
+C:\Users\galencar\projetos\VetorPar\VetorPar\bin\Debug\net8.0\VetorPar.dll
+C:\Users\galencar\projetos\VetorPar\VetorPar\bin\Debug\net8.0\VetorPar.pdb
+C:\Users\galencar\projetos\VetorPar\VetorPar\obj\Debug\net8.0\VetorPar.dll
+C:\Users\galencar\projetos\VetorPar\VetorPar\obj\Debug\net8.0\refint\VetorPar.dll
+C:\Users\galencar\projetos\VetorPar\VetorPar\obj\Debug\net8.0\VetorPar.pdb
+C:\Users\galencar\projetos\VetorPar\VetorPar\obj\Debug\net8.0\VetorPar.genruntimeconfig.cache
+C:\Users\galencar\projetos\VetorPar\VetorPar\obj\Debug\net8.0\ref\VetorPar.dll

@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\bin\Debug\net8.0\ConjuntoDados.exe
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\bin\Debug\net8.0\ConjuntoDados.deps.json
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\bin\Debug\net8.0\ConjuntoDados.runtimeconfig.json
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\bin\Debug\net8.0\ConjuntoDados.dll
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\bin\Debug\net8.0\ConjuntoDados.pdb
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\obj\Debug\net8.0\ConjuntoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\obj\Debug\net8.0\ConjuntoDados.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\obj\Debug\net8.0\ConjuntoDados.AssemblyInfo.cs
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\obj\Debug\net8.0\ConjuntoDados.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\obj\Debug\net8.0\ConjuntoDados.sourcelink.json
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\obj\Debug\net8.0\ConjuntoDados.dll
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\obj\Debug\net8.0\refint\ConjuntoDados.dll
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\obj\Debug\net8.0\ConjuntoDados.pdb
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\obj\Debug\net8.0\ConjuntoDados.genruntimeconfig.cache
+C:\Users\galencar\projetos\ConjuntoDados\ConjuntoDados\obj\Debug\net8.0\ref\ConjuntoDados.dll

@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\bin\Debug\net8.0\VetorMediaNotas.exe
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\bin\Debug\net8.0\VetorMediaNotas.deps.json
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\bin\Debug\net8.0\VetorMediaNotas.runtimeconfig.json
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\bin\Debug\net8.0\VetorMediaNotas.dll
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\bin\Debug\net8.0\VetorMediaNotas.pdb
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\obj\Debug\net8.0\VetorMediaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\obj\Debug\net8.0\VetorMediaNotas.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\obj\Debug\net8.0\VetorMediaNotas.AssemblyInfo.cs
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\obj\Debug\net8.0\VetorMediaNotas.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\obj\Debug\net8.0\VetorMediaNotas.sourcelink.json
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\obj\Debug\net8.0\VetorMediaNotas.dll
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\obj\Debug\net8.0\refint\VetorMediaNotas.dll
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\obj\Debug\net8.0\VetorMediaNotas.pdb
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\obj\Debug\net8.0\VetorMediaNotas.genruntimeconfig.cache
+C:\Users\galencar\projetos\VetorMediaNotas\VetorMediaNotas\obj\Debug\net8.0\ref\VetorMediaNotas.dll

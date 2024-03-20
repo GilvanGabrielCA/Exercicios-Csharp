@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\bin\Debug\net8.0\VetorMaisVelho.exe
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\bin\Debug\net8.0\VetorMaisVelho.deps.json
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\bin\Debug\net8.0\VetorMaisVelho.runtimeconfig.json
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\bin\Debug\net8.0\VetorMaisVelho.dll
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\bin\Debug\net8.0\VetorMaisVelho.pdb
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\obj\Debug\net8.0\VetorMaisVelho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\obj\Debug\net8.0\VetorMaisVelho.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\obj\Debug\net8.0\VetorMaisVelho.AssemblyInfo.cs
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\obj\Debug\net8.0\VetorMaisVelho.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\obj\Debug\net8.0\VetorMaisVelho.sourcelink.json
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\obj\Debug\net8.0\VetorMaisVelho.dll
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\obj\Debug\net8.0\refint\VetorMaisVelho.dll
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\obj\Debug\net8.0\VetorMaisVelho.pdb
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\obj\Debug\net8.0\VetorMaisVelho.genruntimeconfig.cache
+C:\Users\galencar\projetos\VetorMaisVelho\VetorMaisVelho\obj\Debug\net8.0\ref\VetorMaisVelho.dll

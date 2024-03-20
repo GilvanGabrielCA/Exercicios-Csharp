@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\bin\Debug\net8.0\VetorMediaAritmetica.exe
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\bin\Debug\net8.0\VetorMediaAritmetica.deps.json
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\bin\Debug\net8.0\VetorMediaAritmetica.runtimeconfig.json
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\bin\Debug\net8.0\VetorMediaAritmetica.dll
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\bin\Debug\net8.0\VetorMediaAritmetica.pdb
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\obj\Debug\net8.0\VetorMediaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\obj\Debug\net8.0\VetorMediaAritmetica.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\obj\Debug\net8.0\VetorMediaAritmetica.AssemblyInfo.cs
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\obj\Debug\net8.0\VetorMediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\obj\Debug\net8.0\VetorMediaAritmetica.sourcelink.json
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\obj\Debug\net8.0\VetorMediaAritmetica.dll
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\obj\Debug\net8.0\refint\VetorMediaAritmetica.dll
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\obj\Debug\net8.0\VetorMediaAritmetica.pdb
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\obj\Debug\net8.0\VetorMediaAritmetica.genruntimeconfig.cache
+C:\Users\galencar\projetos\VetorMediaAritmetica\VetorMediaAritmetica\obj\Debug\net8.0\ref\VetorMediaAritmetica.dll

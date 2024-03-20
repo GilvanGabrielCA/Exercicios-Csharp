@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConjuntoDados/1.0.0": {
+        "runtime": {
+          "ConjuntoDados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConjuntoDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

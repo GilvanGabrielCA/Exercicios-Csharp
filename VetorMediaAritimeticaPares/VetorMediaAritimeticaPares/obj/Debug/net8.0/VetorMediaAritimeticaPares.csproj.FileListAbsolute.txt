@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\bin\Debug\net8.0\VetorMediaAritimeticaPares.exe
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\bin\Debug\net8.0\VetorMediaAritimeticaPares.deps.json
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\bin\Debug\net8.0\VetorMediaAritimeticaPares.runtimeconfig.json
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\bin\Debug\net8.0\VetorMediaAritimeticaPares.dll
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\bin\Debug\net8.0\VetorMediaAritimeticaPares.pdb
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\obj\Debug\net8.0\VetorMediaAritimeticaPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\obj\Debug\net8.0\VetorMediaAritimeticaPares.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\obj\Debug\net8.0\VetorMediaAritimeticaPares.AssemblyInfo.cs
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\obj\Debug\net8.0\VetorMediaAritimeticaPares.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\obj\Debug\net8.0\VetorMediaAritimeticaPares.sourcelink.json
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\obj\Debug\net8.0\VetorMediaAritimeticaPares.dll
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\obj\Debug\net8.0\refint\VetorMediaAritimeticaPares.dll
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\obj\Debug\net8.0\VetorMediaAritimeticaPares.pdb
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\obj\Debug\net8.0\VetorMediaAritimeticaPares.genruntimeconfig.cache
+C:\Users\galencar\projetos\VetorMediaAritimeticaPares\VetorMediaAritimeticaPares\obj\Debug\net8.0\ref\VetorMediaAritimeticaPares.dll
