@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galencar\\projetos\\MaiorCadaLinha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD39BC4E-5131-4415-B448-0E51F58E3869}|MaiorCadaLinha\\MaiorCadaLinha.csproj|c:\\users\\galencar\\projetos\\maiorcadalinha\\maiorcadalinha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD39BC4E-5131-4415-B448-0E51F58E3869}|MaiorCadaLinha\\MaiorCadaLinha.csproj|solutionrelative:maiorcadalinha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galencar\\projetos\\MaiorCadaLinha\\MaiorCadaLinha\\Program.cs",
+              "RelativeDocumentMoniker": "MaiorCadaLinha\\Program.cs",
+              "ToolTip": "C:\\Users\\galencar\\projetos\\MaiorCadaLinha\\MaiorCadaLinha\\Program.cs",
+              "RelativeToolTip": "MaiorCadaLinha\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:53:39.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

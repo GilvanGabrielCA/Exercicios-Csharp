@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\bin\Debug\net8.0\SomaMatrizQuadrada.exe
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\bin\Debug\net8.0\SomaMatrizQuadrada.deps.json
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\bin\Debug\net8.0\SomaMatrizQuadrada.runtimeconfig.json
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\bin\Debug\net8.0\SomaMatrizQuadrada.dll
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\bin\Debug\net8.0\SomaMatrizQuadrada.pdb
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\obj\Debug\net8.0\SomaMatrizQuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\obj\Debug\net8.0\SomaMatrizQuadrada.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\obj\Debug\net8.0\SomaMatrizQuadrada.AssemblyInfo.cs
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\obj\Debug\net8.0\SomaMatrizQuadrada.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\obj\Debug\net8.0\SomaMatrizQuadrada.sourcelink.json
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\obj\Debug\net8.0\SomaMatrizQuadrada.dll
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\obj\Debug\net8.0\refint\SomaMatrizQuadrada.dll
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\obj\Debug\net8.0\SomaMatrizQuadrada.pdb
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\obj\Debug\net8.0\SomaMatrizQuadrada.genruntimeconfig.cache
+C:\Users\galencar\projetos\SomaMatrizQuadrada\SomaMatrizQuadrada\obj\Debug\net8.0\ref\SomaMatrizQuadrada.dll

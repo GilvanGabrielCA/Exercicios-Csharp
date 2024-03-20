@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\bin\Debug\net8.0\SomaMatrizes.exe
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\bin\Debug\net8.0\SomaMatrizes.deps.json
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\bin\Debug\net8.0\SomaMatrizes.runtimeconfig.json
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\bin\Debug\net8.0\SomaMatrizes.dll
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\bin\Debug\net8.0\SomaMatrizes.pdb
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\obj\Debug\net8.0\SomaMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\obj\Debug\net8.0\SomaMatrizes.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\obj\Debug\net8.0\SomaMatrizes.AssemblyInfo.cs
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\obj\Debug\net8.0\SomaMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\obj\Debug\net8.0\SomaMatrizes.sourcelink.json
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\obj\Debug\net8.0\SomaMatrizes.dll
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\obj\Debug\net8.0\refint\SomaMatrizes.dll
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\obj\Debug\net8.0\SomaMatrizes.pdb
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\obj\Debug\net8.0\SomaMatrizes.genruntimeconfig.cache
+C:\Users\galencar\projetos\SomaMatrizes\SomaMatrizes\obj\Debug\net8.0\ref\SomaMatrizes.dll

@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\bin\Debug\net8.0\MatrizNegativos.exe
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\bin\Debug\net8.0\MatrizNegativos.deps.json
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\bin\Debug\net8.0\MatrizNegativos.runtimeconfig.json
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\bin\Debug\net8.0\MatrizNegativos.dll
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\bin\Debug\net8.0\MatrizNegativos.pdb
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\obj\Debug\net8.0\MatrizNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\obj\Debug\net8.0\MatrizNegativos.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\obj\Debug\net8.0\MatrizNegativos.AssemblyInfo.cs
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\obj\Debug\net8.0\MatrizNegativos.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\obj\Debug\net8.0\MatrizNegativos.sourcelink.json
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\obj\Debug\net8.0\MatrizNegativos.dll
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\obj\Debug\net8.0\refint\MatrizNegativos.dll
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\obj\Debug\net8.0\MatrizNegativos.pdb
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\obj\Debug\net8.0\MatrizNegativos.genruntimeconfig.cache
+C:\Users\galencar\projetos\MatrizNegativos\MatrizNegativos\obj\Debug\net8.0\ref\MatrizNegativos.dll

@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\bin\Debug\net8.0\MaiorCadaLinha.exe
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\bin\Debug\net8.0\MaiorCadaLinha.deps.json
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\bin\Debug\net8.0\MaiorCadaLinha.runtimeconfig.json
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\bin\Debug\net8.0\MaiorCadaLinha.dll
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\bin\Debug\net8.0\MaiorCadaLinha.pdb
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\obj\Debug\net8.0\MaiorCadaLinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\obj\Debug\net8.0\MaiorCadaLinha.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\obj\Debug\net8.0\MaiorCadaLinha.AssemblyInfo.cs
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\obj\Debug\net8.0\MaiorCadaLinha.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\obj\Debug\net8.0\MaiorCadaLinha.sourcelink.json
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\obj\Debug\net8.0\MaiorCadaLinha.dll
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\obj\Debug\net8.0\refint\MaiorCadaLinha.dll
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\obj\Debug\net8.0\MaiorCadaLinha.pdb
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\obj\Debug\net8.0\MaiorCadaLinha.genruntimeconfig.cache
+C:\Users\galencar\projetos\MaiorCadaLinha\MaiorCadaLinha\obj\Debug\net8.0\ref\MaiorCadaLinha.dll

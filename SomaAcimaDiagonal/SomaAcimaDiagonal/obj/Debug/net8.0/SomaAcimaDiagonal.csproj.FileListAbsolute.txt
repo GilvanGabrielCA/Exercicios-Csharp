@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\bin\Debug\net8.0\SomaAcimaDiagonal.exe
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\bin\Debug\net8.0\SomaAcimaDiagonal.deps.json
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\bin\Debug\net8.0\SomaAcimaDiagonal.runtimeconfig.json
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\bin\Debug\net8.0\SomaAcimaDiagonal.dll
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\bin\Debug\net8.0\SomaAcimaDiagonal.pdb
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\obj\Debug\net8.0\SomaAcimaDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\obj\Debug\net8.0\SomaAcimaDiagonal.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\obj\Debug\net8.0\SomaAcimaDiagonal.AssemblyInfo.cs
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\obj\Debug\net8.0\SomaAcimaDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\obj\Debug\net8.0\SomaAcimaDiagonal.sourcelink.json
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\obj\Debug\net8.0\SomaAcimaDiagonal.dll
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\obj\Debug\net8.0\refint\SomaAcimaDiagonal.dll
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\obj\Debug\net8.0\SomaAcimaDiagonal.pdb
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\obj\Debug\net8.0\SomaAcimaDiagonal.genruntimeconfig.cache
+C:\Users\galencar\projetos\SomaAcimaDiagonal\SomaAcimaDiagonal\obj\Debug\net8.0\ref\SomaAcimaDiagonal.dll

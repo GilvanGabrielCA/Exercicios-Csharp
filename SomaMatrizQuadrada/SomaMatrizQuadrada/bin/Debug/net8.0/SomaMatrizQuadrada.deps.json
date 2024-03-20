@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SomaMatrizQuadrada/1.0.0": {
+        "runtime": {
+          "SomaMatrizQuadrada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SomaMatrizQuadrada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
