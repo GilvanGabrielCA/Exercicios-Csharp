@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\bin\Debug\net8.0\QuadradoPares.exe
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\bin\Debug\net8.0\QuadradoPares.deps.json
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\bin\Debug\net8.0\QuadradoPares.runtimeconfig.json
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\bin\Debug\net8.0\QuadradoPares.dll
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\bin\Debug\net8.0\QuadradoPares.pdb
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\obj\Debug\net8.0\QuadradoPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\obj\Debug\net8.0\QuadradoPares.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\obj\Debug\net8.0\QuadradoPares.AssemblyInfo.cs
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\obj\Debug\net8.0\QuadradoPares.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\obj\Debug\net8.0\QuadradoPares.sourcelink.json
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\obj\Debug\net8.0\QuadradoPares.dll
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\obj\Debug\net8.0\refint\QuadradoPares.dll
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\obj\Debug\net8.0\QuadradoPares.pdb
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\obj\Debug\net8.0\QuadradoPares.genruntimeconfig.cache
+C:\Users\galencar\projetos\QuadradoPares\QuadradoPares\obj\Debug\net8.0\ref\QuadradoPares.dll

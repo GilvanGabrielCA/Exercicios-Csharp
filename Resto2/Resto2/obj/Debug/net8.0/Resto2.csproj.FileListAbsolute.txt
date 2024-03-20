@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\Resto2\Resto2\bin\Debug\net8.0\Resto2.exe
+C:\Users\galencar\projetos\Resto2\Resto2\bin\Debug\net8.0\Resto2.deps.json
+C:\Users\galencar\projetos\Resto2\Resto2\bin\Debug\net8.0\Resto2.runtimeconfig.json
+C:\Users\galencar\projetos\Resto2\Resto2\bin\Debug\net8.0\Resto2.dll
+C:\Users\galencar\projetos\Resto2\Resto2\bin\Debug\net8.0\Resto2.pdb
+C:\Users\galencar\projetos\Resto2\Resto2\obj\Debug\net8.0\Resto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\Resto2\Resto2\obj\Debug\net8.0\Resto2.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\Resto2\Resto2\obj\Debug\net8.0\Resto2.AssemblyInfo.cs
+C:\Users\galencar\projetos\Resto2\Resto2\obj\Debug\net8.0\Resto2.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\Resto2\Resto2\obj\Debug\net8.0\Resto2.sourcelink.json
+C:\Users\galencar\projetos\Resto2\Resto2\obj\Debug\net8.0\Resto2.dll
+C:\Users\galencar\projetos\Resto2\Resto2\obj\Debug\net8.0\refint\Resto2.dll
+C:\Users\galencar\projetos\Resto2\Resto2\obj\Debug\net8.0\Resto2.pdb
+C:\Users\galencar\projetos\Resto2\Resto2\obj\Debug\net8.0\Resto2.genruntimeconfig.cache
+C:\Users\galencar\projetos\Resto2\Resto2\obj\Debug\net8.0\ref\Resto2.dll

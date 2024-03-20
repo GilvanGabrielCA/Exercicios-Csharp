@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galencar\\projetos\\QuadradoPares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415C7722-9739-480A-AA80-1274E62D5519}|QuadradoPares\\QuadradoPares.csproj|c:\\users\\galencar\\projetos\\quadradopares\\quadradopares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C7722-9739-480A-AA80-1274E62D5519}|QuadradoPares\\QuadradoPares.csproj|solutionrelative:quadradopares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\galencar\\projetos\\QuadradoPares\\QuadradoPares\\Program.cs",
+              "RelativeDocumentMoniker": "QuadradoPares\\Program.cs",
+              "ToolTip": "C:\\Users\\galencar\\projetos\\QuadradoPares\\QuadradoPares\\Program.cs",
+              "RelativeToolTip": "QuadradoPares\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:34:42.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

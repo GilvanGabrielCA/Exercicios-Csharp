@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.exe
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.deps.json
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.runtimeconfig.json
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.dll
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.pdb
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.AssemblyInfo.cs
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.sourcelink.json
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.dll
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\refint\NumerosImpares.dll
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.pdb
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.genruntimeconfig.cache
+C:\Users\galencar\projetos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\ref\NumerosImpares.dll
