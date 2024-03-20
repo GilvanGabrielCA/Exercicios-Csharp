@@ -1,0 +1,15 @@
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\bin\Debug\net8.0\LeituraNegativos.exe
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\bin\Debug\net8.0\LeituraNegativos.deps.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\bin\Debug\net8.0\LeituraNegativos.runtimeconfig.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\bin\Debug\net8.0\LeituraNegativos.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\bin\Debug\net8.0\LeituraNegativos.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\obj\Debug\net8.0\LeituraNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\obj\Debug\net8.0\LeituraNegativos.AssemblyInfoInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\obj\Debug\net8.0\LeituraNegativos.AssemblyInfo.cs
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\obj\Debug\net8.0\LeituraNegativos.csproj.CoreCompileInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\obj\Debug\net8.0\LeituraNegativos.sourcelink.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\obj\Debug\net8.0\LeituraNegativos.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\obj\Debug\net8.0\refint\LeituraNegativos.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\obj\Debug\net8.0\LeituraNegativos.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\obj\Debug\net8.0\LeituraNegativos.genruntimeconfig.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraNegativos\LeituraNegativos\obj\Debug\net8.0\ref\LeituraNegativos.dll

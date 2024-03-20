@@ -1,0 +1,15 @@
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\bin\Debug\net8.0\MediaVetor.exe
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\bin\Debug\net8.0\MediaVetor.deps.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\bin\Debug\net8.0\MediaVetor.runtimeconfig.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\bin\Debug\net8.0\MediaVetor.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\bin\Debug\net8.0\MediaVetor.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\obj\Debug\net8.0\MediaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\obj\Debug\net8.0\MediaVetor.AssemblyInfoInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\obj\Debug\net8.0\MediaVetor.AssemblyInfo.cs
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\obj\Debug\net8.0\MediaVetor.csproj.CoreCompileInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\obj\Debug\net8.0\MediaVetor.sourcelink.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\obj\Debug\net8.0\MediaVetor.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\obj\Debug\net8.0\refint\MediaVetor.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\obj\Debug\net8.0\MediaVetor.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\obj\Debug\net8.0\MediaVetor.genruntimeconfig.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\MediaVetor\MediaVetor\obj\Debug\net8.0\ref\MediaVetor.dll

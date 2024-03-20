@@ -1,0 +1,15 @@
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\bin\Debug\net8.0\LeituraDados.exe
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\bin\Debug\net8.0\LeituraDados.deps.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\bin\Debug\net8.0\LeituraDados.runtimeconfig.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\bin\Debug\net8.0\LeituraDados.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\bin\Debug\net8.0\LeituraDados.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\obj\Debug\net8.0\LeituraDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\obj\Debug\net8.0\LeituraDados.AssemblyInfoInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\obj\Debug\net8.0\LeituraDados.AssemblyInfo.cs
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\obj\Debug\net8.0\LeituraDados.csproj.CoreCompileInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\obj\Debug\net8.0\LeituraDados.sourcelink.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\obj\Debug\net8.0\LeituraDados.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\obj\Debug\net8.0\refint\LeituraDados.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\obj\Debug\net8.0\LeituraDados.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\obj\Debug\net8.0\LeituraDados.genruntimeconfig.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\LeituraDados\LeituraDados\obj\Debug\net8.0\ref\LeituraDados.dll
