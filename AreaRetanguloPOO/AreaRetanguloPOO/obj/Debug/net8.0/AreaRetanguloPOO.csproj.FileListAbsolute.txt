@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\bin\Debug\net8.0\AreaRetanguloPOO.exe
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\bin\Debug\net8.0\AreaRetanguloPOO.deps.json
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\bin\Debug\net8.0\AreaRetanguloPOO.runtimeconfig.json
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\bin\Debug\net8.0\AreaRetanguloPOO.dll
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\bin\Debug\net8.0\AreaRetanguloPOO.pdb
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\obj\Debug\net8.0\AreaRetanguloPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\obj\Debug\net8.0\AreaRetanguloPOO.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\obj\Debug\net8.0\AreaRetanguloPOO.AssemblyInfo.cs
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\obj\Debug\net8.0\AreaRetanguloPOO.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\obj\Debug\net8.0\AreaRetanguloPOO.sourcelink.json
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\obj\Debug\net8.0\AreaRetanguloPOO.dll
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\obj\Debug\net8.0\refint\AreaRetanguloPOO.dll
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\obj\Debug\net8.0\AreaRetanguloPOO.pdb
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\obj\Debug\net8.0\AreaRetanguloPOO.genruntimeconfig.cache
+C:\Users\galencar\projetos\AreaRetanguloPOO\AreaRetanguloPOO\obj\Debug\net8.0\ref\AreaRetanguloPOO.dll

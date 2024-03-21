@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\bin\Debug\net8.0\SalarioFuncionarioPOO.exe
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\bin\Debug\net8.0\SalarioFuncionarioPOO.deps.json
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\bin\Debug\net8.0\SalarioFuncionarioPOO.runtimeconfig.json
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\bin\Debug\net8.0\SalarioFuncionarioPOO.dll
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\bin\Debug\net8.0\SalarioFuncionarioPOO.pdb
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\obj\Debug\net8.0\SalarioFuncionarioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\obj\Debug\net8.0\SalarioFuncionarioPOO.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\obj\Debug\net8.0\SalarioFuncionarioPOO.AssemblyInfo.cs
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\obj\Debug\net8.0\SalarioFuncionarioPOO.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\obj\Debug\net8.0\SalarioFuncionarioPOO.sourcelink.json
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\obj\Debug\net8.0\SalarioFuncionarioPOO.dll
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\obj\Debug\net8.0\refint\SalarioFuncionarioPOO.dll
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\obj\Debug\net8.0\SalarioFuncionarioPOO.pdb
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\obj\Debug\net8.0\SalarioFuncionarioPOO.genruntimeconfig.cache
+C:\Users\galencar\projetos\SalarioFuncionarioPOO\SalarioFuncionarioPOO\obj\Debug\net8.0\ref\SalarioFuncionarioPOO.dll

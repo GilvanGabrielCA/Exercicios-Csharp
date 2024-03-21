@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\bin\Debug\net8.0\AlunosPOO.exe
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\bin\Debug\net8.0\AlunosPOO.deps.json
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\bin\Debug\net8.0\AlunosPOO.runtimeconfig.json
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\bin\Debug\net8.0\AlunosPOO.dll
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\bin\Debug\net8.0\AlunosPOO.pdb
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\obj\Debug\net8.0\AlunosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\obj\Debug\net8.0\AlunosPOO.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\obj\Debug\net8.0\AlunosPOO.AssemblyInfo.cs
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\obj\Debug\net8.0\AlunosPOO.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\obj\Debug\net8.0\AlunosPOO.sourcelink.json
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\obj\Debug\net8.0\AlunosPOO.dll
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\obj\Debug\net8.0\refint\AlunosPOO.dll
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\obj\Debug\net8.0\AlunosPOO.pdb
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\obj\Debug\net8.0\AlunosPOO.genruntimeconfig.cache
+C:\Users\galencar\projetos\AlunosPOO\AlunosPOO\obj\Debug\net8.0\ref\AlunosPOO.dll
