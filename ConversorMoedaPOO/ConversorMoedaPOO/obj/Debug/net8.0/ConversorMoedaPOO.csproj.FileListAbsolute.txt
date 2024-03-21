@@ -1,0 +1,15 @@
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\bin\Debug\net8.0\ConversorMoedaPOO.exe
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\bin\Debug\net8.0\ConversorMoedaPOO.deps.json
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\bin\Debug\net8.0\ConversorMoedaPOO.runtimeconfig.json
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\bin\Debug\net8.0\ConversorMoedaPOO.dll
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\bin\Debug\net8.0\ConversorMoedaPOO.pdb
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net8.0\ConversorMoedaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net8.0\ConversorMoedaPOO.AssemblyInfoInputs.cache
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net8.0\ConversorMoedaPOO.AssemblyInfo.cs
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net8.0\ConversorMoedaPOO.csproj.CoreCompileInputs.cache
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net8.0\ConversorMoedaPOO.sourcelink.json
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net8.0\ConversorMoedaPOO.dll
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net8.0\refint\ConversorMoedaPOO.dll
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net8.0\ConversorMoedaPOO.pdb
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net8.0\ConversorMoedaPOO.genruntimeconfig.cache
+C:\Users\galencar\projetos\ConversorMoedaPOO\ConversorMoedaPOO\obj\Debug\net8.0\ref\ConversorMoedaPOO.dll
