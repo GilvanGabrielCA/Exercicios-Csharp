@@ -1,0 +1,15 @@
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\bin\Debug\net8.0\PessoasPOO.exe
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\bin\Debug\net8.0\PessoasPOO.deps.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\bin\Debug\net8.0\PessoasPOO.runtimeconfig.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\bin\Debug\net8.0\PessoasPOO.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\bin\Debug\net8.0\PessoasPOO.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\obj\Debug\net8.0\PessoasPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\obj\Debug\net8.0\PessoasPOO.AssemblyInfoInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\obj\Debug\net8.0\PessoasPOO.AssemblyInfo.cs
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\obj\Debug\net8.0\PessoasPOO.csproj.CoreCompileInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\obj\Debug\net8.0\PessoasPOO.sourcelink.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\obj\Debug\net8.0\PessoasPOO.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\obj\Debug\net8.0\refint\PessoasPOO.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\obj\Debug\net8.0\PessoasPOO.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\obj\Debug\net8.0\PessoasPOO.genruntimeconfig.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\PessoasPOO\PessoasPOO\obj\Debug\net8.0\ref\PessoasPOO.dll

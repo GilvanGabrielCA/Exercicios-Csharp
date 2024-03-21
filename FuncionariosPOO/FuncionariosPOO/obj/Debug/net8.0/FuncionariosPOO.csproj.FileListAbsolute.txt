@@ -1,0 +1,15 @@
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\bin\Debug\net8.0\FuncionariosPOO.exe
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\bin\Debug\net8.0\FuncionariosPOO.deps.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\bin\Debug\net8.0\FuncionariosPOO.runtimeconfig.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\bin\Debug\net8.0\FuncionariosPOO.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\bin\Debug\net8.0\FuncionariosPOO.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\obj\Debug\net8.0\FuncionariosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\obj\Debug\net8.0\FuncionariosPOO.AssemblyInfoInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\obj\Debug\net8.0\FuncionariosPOO.AssemblyInfo.cs
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\obj\Debug\net8.0\FuncionariosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\obj\Debug\net8.0\FuncionariosPOO.sourcelink.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\obj\Debug\net8.0\FuncionariosPOO.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\obj\Debug\net8.0\refint\FuncionariosPOO.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\obj\Debug\net8.0\FuncionariosPOO.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\obj\Debug\net8.0\FuncionariosPOO.genruntimeconfig.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\FuncionariosPOO\FuncionariosPOO\obj\Debug\net8.0\ref\FuncionariosPOO.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gilvan Gabriel\\Documents\\GitHub\\Exercicios-Csharp\\PessoasPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BABF2D79-FAC3-46A5-AAE0-8AEEE11AC1E8}|PessoasPOO\\PessoasPOO.csproj|c:\\users\\gilvan gabriel\\documents\\github\\exercicios-csharp\\pessoaspoo\\pessoaspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABF2D79-FAC3-46A5-AAE0-8AEEE11AC1E8}|PessoasPOO\\PessoasPOO.csproj|solutionrelative:pessoaspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABF2D79-FAC3-46A5-AAE0-8AEEE11AC1E8}|PessoasPOO\\PessoasPOO.csproj|c:\\users\\gilvan gabriel\\documents\\github\\exercicios-csharp\\pessoaspoo\\pessoaspoo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABF2D79-FAC3-46A5-AAE0-8AEEE11AC1E8}|PessoasPOO\\PessoasPOO.csproj|solutionrelative:pessoaspoo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Gilvan Gabriel\\Documents\\GitHub\\Exercicios-Csharp\\PessoasPOO\\PessoasPOO\\Pessoa.cs",
+              "RelativeDocumentMoniker": "PessoasPOO\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Gilvan Gabriel\\Documents\\GitHub\\Exercicios-Csharp\\PessoasPOO\\PessoasPOO\\Pessoa.cs",
+              "RelativeToolTip": "PessoasPOO\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:30:13.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gilvan Gabriel\\Documents\\GitHub\\Exercicios-Csharp\\PessoasPOO\\PessoasPOO\\Program.cs",
+              "RelativeDocumentMoniker": "PessoasPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\Gilvan Gabriel\\Documents\\GitHub\\Exercicios-Csharp\\PessoasPOO\\PessoasPOO\\Program.cs",
+              "RelativeToolTip": "PessoasPOO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:29:21.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
