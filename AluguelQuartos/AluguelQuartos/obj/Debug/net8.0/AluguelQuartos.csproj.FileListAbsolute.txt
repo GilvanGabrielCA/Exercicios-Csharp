@@ -1,0 +1,15 @@
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.AssemblyInfoInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.AssemblyInfo.cs
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.csproj.CoreCompileInputs.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.sourcelink.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\bin\Debug\net8.0\AluguelQuartos.exe
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\bin\Debug\net8.0\AluguelQuartos.deps.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\bin\Debug\net8.0\AluguelQuartos.runtimeconfig.json
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\bin\Debug\net8.0\AluguelQuartos.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\bin\Debug\net8.0\AluguelQuartos.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\refint\AluguelQuartos.dll
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.pdb
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\AluguelQuartos.genruntimeconfig.cache
+C:\Users\Gilvan Gabriel\Documents\GitHub\Exercicios-Csharp\AluguelQuartos\AluguelQuartos\obj\Debug\net8.0\ref\AluguelQuartos.dll
